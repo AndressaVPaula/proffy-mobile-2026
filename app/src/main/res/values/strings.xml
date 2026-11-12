@@ -2,4 +2,16 @@
     <string name="app_name">Proffy</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_background_description">Imagem de fundo com elementos gráficos</string>
+    <string name="forgot_intro_description">Proffy, sua plataforma de estudos online.</string>
+    <string name="forgot_back_description">Botão para voltar à tela de login</string>
+    <string name="forgot_title">Esqueceu sua senha?</string>
+    <string name="forgot_subtitle">Não esquenta,\nvamos dar um jeito nisso.</string>
+    <string name="forgot_email_hint">E-mail</string>
+    <string name="forgot_error_invalid_email">Digite um e-mail válido.</string>
+    <string name="forgot_button_disabled">Entrar</string>
+    <string name="forgot_button_send">Enviar</string>
+    <string name="forgot_done_title">Redefinição\nenviada!</string>
+    <string name="forgot_done_subtitle">Boa, agora é só checar o e-mail que foi\nenviado para você redefinir sua senha\ne aproveitar os estudos.</string>
+    <string name="forgot_done_button">Voltar ao login</string>
 </resources>
